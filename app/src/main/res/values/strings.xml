@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CompCombustivel</string>
+    <string name="txtGasol">Insira o valor do litro da galsolina: </string>
+    <string name="txtEtanol">Insira o valor do litro do etanol: </string>
+    <string name="hintValor">0,00</string>
+    <string name="calc">Calcular</string>
+</resources>
